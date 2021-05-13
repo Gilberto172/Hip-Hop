@@ -1,0 +1,50 @@
+body{
+    font-size: 40px;
+    background:#000000;
+    color:rgb(255, 255, 255);
+
+  }
+
+  h2 {
+  
+color: rgb(0, 38, 255);
+
+  }
+
+  h1   {
+
+color:rgba(15, 168, 2, 0.774)
+
+  }
+  
+  h3  {
+
+    color:rgb(247, 0, 255)
+
+      }
+
+      p {
+
+        font-size: 25px;
+      }
+
+      h4{
+          color: aqua;
+      }
+
+  A :target { 
+
+        color: tan;
+    }
+
+    footer {
+    text-decoration: none;
+   font-size: 25px;
+   color: rgb(0, 17, 250);
+   margin: 10px 20px;
+   display: inline-block;
+   padding: 10px 20px;
+   box-shadow: 0px 5px 0px 0px  #0400ff;
+   background: #666666;
+    }
+  
